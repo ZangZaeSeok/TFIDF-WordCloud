@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/41e02a6c-8a15-462c-955c-a044302225fd)# :jack_o_lantern: TFIDF-WordCloud
+# :jack_o_lantern: TFIDF-WordCloud
 > 본 코드는 각 영화의 수집된 부정/긍정 리뷰 데이터셋의 특징을 분석하기 위해 TF-IDF의 가중치와 WordCloud를 같이 적용하여 시각화를 수행합니다.
 
 ## :apple: 기대 효과
