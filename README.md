@@ -38,5 +38,11 @@
 ## 🔎 데이터 시각화
 - 앤트맨 3의 리뷰에 대한 분석 시각화 결과입니다.
 ### [default-wordcloud](https://github.com/ZangZaeSeok/TFIDF-WordCloud/blob/main/default-wordcloud/%E1%84%8B%E1%85%A2%E1%86%AB%E1%84%90%E1%85%B3%E1%84%86%E1%85%A2%E1%86%AB-No%20processing.ipynb)
+- 기본 방식으로 리뷰를 분석할 경우, stopword로 의미없는 토큰을 제거하였음에도 불구하고, 영화에 대한 분석이 잘 수행되지 않은 것을 확인할 수 있습니다.
+> 부정적인 리뷰에 대한 wordcloud
+![부정](https://github.com/user-attachments/assets/3832d490-6f9a-46d5-8a82-cc12916238bf)
+ 
+> 긍정적인 리뷰에 대한 wordcloud
+![다운로드 (1)](https://github.com/user-attachments/assets/1a0b4fc6-c36a-41e5-a7b9-cbe6b33c1142)
 
-
+### [tfidf-wordcloud](https://github.com/ZangZaeSeok/TFIDF-WordCloud/blob/main/default-wordcloud/%E1%84%8B%E1%85%A2%E1%86%AB%E1%84%90%E1%85%B3%E1%84%86%E1%85%A2%E1%86%AB-No%20processing.ipynb)
