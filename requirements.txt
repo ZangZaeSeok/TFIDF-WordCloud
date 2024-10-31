@@ -2,3 +2,7 @@ torch
 seaborn
 numpy
 pandas
+nltk
+scikit-learn
+wordcloud
+googletrans
