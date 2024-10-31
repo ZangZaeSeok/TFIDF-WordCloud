@@ -45,4 +45,12 @@
 > 긍정적인 리뷰에 대한 wordcloud
 ![다운로드 (1)](https://github.com/user-attachments/assets/1a0b4fc6-c36a-41e5-a7b9-cbe6b33c1142)
 
-### [tfidf-wordcloud](https://github.com/ZangZaeSeok/TFIDF-WordCloud/blob/main/default-wordcloud/%E1%84%8B%E1%85%A2%E1%86%AB%E1%84%90%E1%85%B3%E1%84%86%E1%85%A2%E1%86%AB-No%20processing.ipynb)
+### [tfidf-wordcloud](https://github.com/ZangZaeSeok/TFIDF-WordCloud/blob/main/tfidf-wordcloud/%E1%84%8B%E1%85%A2%E1%86%AB%E1%84%90%E1%85%B3%E1%84%86%E1%85%A2%E1%86%AB.ipynb)
+- tfidf를 활용한 제안하는 방식으로 리뷰를 분석할 경우, 각 리뷰의 특징을 파악하여 영화의 강점 및 단점 파악이 가능해지는 것을 확인할 수 있습니다.
+
+> 부정적인 리뷰에 대한 wordcloud
+![긍정](https://github.com/user-attachments/assets/bf2739db-2ce8-43fe-a942-8060c7ab10ba)
+
+> 긍정적인 리뷰에 대한 wordcloud
+![부정](https://github.com/user-attachments/assets/b1645b84-573e-4f6f-ac45-2b8cb6c64b93)
+
